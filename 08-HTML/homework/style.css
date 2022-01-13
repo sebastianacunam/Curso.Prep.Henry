@@ -1,0 +1,21 @@
+h1{
+    color:teal;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 400px;
+    background-color: violet;
+    padding: 50px;
+    border: 6px rgb(97, 38, 153) solid;
+} 
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
